@@ -1,0 +1,32 @@
+{
+  "username": "appbestcartoon",
+  "new_username": "appbestcartoon/unicorn",
+  "section_mode": true,
+  "album": [
+    "unicorn"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-9627382014000837/3094912174",
+  "admob_interstitial_id": "ca-app-pub-9627382014000837/5565448255",
+  "admob_native_id": "ca-app-pub-9627382014000837/5981177386",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9627382014000837/5155180879",
+
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
+  
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+      "ADMOB"
+  ],
+  
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": ""
+}
