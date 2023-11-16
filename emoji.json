@@ -1,0 +1,32 @@
+{
+  "username": "appbestcartoon",
+  "new_username": "appbestcartoon/emoji",
+  "section_mode": true,
+  "album": [
+    "emoji"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-9627382014000837/3451510488",
+  "admob_interstitial_id": "ca-app-pub-9627382014000837/9901368769",
+  "admob_native_id": "ca-app-pub-9627382014000837/4476855534",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9627382014000837/8836818664",
+
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
+  
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+      "ADMOB"
+  ],
+  
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": ""
+}
