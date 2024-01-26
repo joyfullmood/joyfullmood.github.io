@@ -9,8 +9,8 @@
   "admob_banner_id": "ca-app-pub-9627382014000837/3451510488",
   "admob_interstitial_id": "ca-app-pub-9627382014000837/9901368769",
   "admob_native_id": "ca-app-pub-9627382014000837/4476855534",
-  "admob_rewarded_interstitial_id": "ca-app-pub-9627382014000837/8836818664",
-  "admob_open_app_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9627382014000837/8836818664",
 
   "admob_hpk_1": "purple",
   "admob_hpk_2": "bts",
