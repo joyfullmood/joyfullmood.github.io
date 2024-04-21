@@ -1,0 +1,30 @@
+{
+  "username_board": "appbestcartoon/unicornpuzzle",
+  "albums": [
+    "puzzle1"
+  ],
+  "pub_id": "",
+  "app_id": "",
+  "admob_banner_id": "ca-app-pub-9627382014000837/3470191665",
+  "admob_interstitial_id": "ca-app-pub-9627382014000837/4291468688",
+  "admob_native_id": "ca-app-pub-9627382014000837/7923591930",
+  "admob_rewarded_id": "ca-app-pub-9627382014000837/2157109994",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-9627382014000837/3701609039",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "kpop",
+  "admob_hpk_3": "fashion",
+  "admob_hpk_4": "healthy",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "unity_rewarded": "",
+  "interstitial_inverval": 5,
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "UNITY"
+  ]
+}
